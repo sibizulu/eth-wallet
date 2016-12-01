@@ -1,0 +1,29 @@
+{
+  "name": "eth-wallet",
+  "version": "1.0.0",
+  "description": "Create Eth wallet ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sibizulu/eth-wallet.git"
+  },
+  "keywords": [
+    "wallet",
+    "ethereum"
+  ],
+  "author": "Sibiraj PR <sibiraj@lightrains.com> (http://sibiraj.in)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sibizulu/eth-wallet/issues"
+  },
+  "homepage": "https://github.com/sibizulu/eth-wallet#readme",
+  "devDependencies": {
+    "browserify": "^13.1.1"
+  },
+  "dependencies": {
+    "ethereumjs-account": "^2.0.4"
+  }
+}
